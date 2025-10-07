@@ -1,6 +1,6 @@
 📂 File Information
 
-File Name: John.pbix
+File Name: mari.pbix
 
 File Type: Power BI Project File
 
@@ -23,7 +23,7 @@ Data model designed for efficient queries
 Download and install Power BI Desktop
  if not already installed.
 
-Open John.pbix using Power BI Desktop.
+Open mari.pbix using Power BI Desktop.
 
 Navigate through the report tabs to explore the different dashboards.
 
@@ -42,4 +42,4 @@ For best performance, ensure a stable internet connection if any online sources 
 📧 Contact
 
 For queries, suggestions, or issues related to this report, please contact:
-John B – johnbalajayaseelan@gmail.com
+mariyappan v-mariyappanv724@gmail.com
