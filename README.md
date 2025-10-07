@@ -42,4 +42,5 @@ For best performance, ensure a stable internet connection if any online sources 
 📧 Contact
 
 For queries, suggestions, or issues related to this report, please contact:
-mariyappan v-mariyappanv724@gmail.com
+mariyappan v
+mariyappanv724@gmail.com
